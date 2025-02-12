@@ -8,7 +8,7 @@ FE_HOST="localhost:8030"
 DATA_DIR="./data.csv" # replace with your file destination
 
 # Optional label for this load
-LABEL="load_product_recommendation_data_final"
+LABEL="load_product_recommendation_data_final1"
 
 # Check that the file exists before loading
 if [ -f "$DATA_DIR" ]; then
@@ -18,6 +18,7 @@ if [ -f "$DATA_DIR" ]; then
          -H "column_separator: ," \
          -H "line_delimiter: \n" \
          -H "max_filter_ratio: 1" \
+         -H "skip_header : 1" \
          -T "$DATA_DIR" \
          -XPUT "http://$FE_HOST/api/$DATABASE/$TABLE/_stream_load"
 else

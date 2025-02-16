@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  jupyter-duckdb:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jupyter-duckdb
+    ports:
+      - "8888:8888"  # Map container port 8888 to host port 8888
+    volumes:
+      - ./workspace:/workspace  # Mount local workspace to container
+    environment:
+      - JUPYTER_TOKEN=mysecrettoken  # Set a token for Jupyter Notebook access
+    restart: unless-stopped

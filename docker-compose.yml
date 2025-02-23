@@ -1,11 +1,11 @@
 version: '3.8'
 
 services:
-  jupyter-duckdb:
+  pyspark_data:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: jupyter-duckdb
+    container_name: pyspark_data
     ports:
       - "8888:8888"  # Map container port 8888 to host port 8888
     volumes:

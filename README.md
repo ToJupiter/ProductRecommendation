@@ -1,4 +1,3 @@
-```markdown
 # Team minekraft - DataFlow 2025
 Bài toán Product Recommendation
 
@@ -48,4 +47,3 @@ Bài toán Product Recommendation
     *   Model sẽ được chạy trên Kaggle.
     *   Link dẫn đến Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/code/hctingnht/team-minekraft-dataflow2025?scriptVersionId=224259196).
     *   Kết quả của model sẽ được trình bày chi tiết trong báo cáo.
-```

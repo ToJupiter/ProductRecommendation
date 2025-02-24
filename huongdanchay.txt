@@ -1,0 +1,19 @@
+Yêu cầu:
+Có docker và docker-compose trên máy
+RAM >= 32gb
+Có WSL(windows subsystem for linux)
+
+
+Bước 1: Giải nén tệp chứa code của bài.
+
+Bước 2: Copy file vào trong môi trường WSL.
+
+Bước 3: Copy file data vào thư mục workspace.
+
+Bước 4: Mở wsl terminal ở thư mục đã copy và chạy docker-compose up --build ở trên nền wsl trong thư mục của bài.
+
+Bước 5: Vào visual studio code và kết nối đến jupyter server trên docker với url:http://127.0.0.1:8888/tree?token=mysecrettoken
+
+Bước 6: Chạy lần lượt 2 file data_ana.ipynb và data_cleaning_and_feature_engineering.ipynb bằng cách bầm vào run all rồi xem kết quả.
+
+Bước 7: Chạy Model. Model sẽ được chạy ở trên Kaggle, link dẫn đến model sẽ được gắn ở báo cáo.

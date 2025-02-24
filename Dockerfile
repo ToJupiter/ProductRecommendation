@@ -12,7 +12,7 @@ ENV PATH=$JAVA_HOME/bin:$PATH
 
 # Install Python dependencies
 RUN pip install --upgrade pip && \
-    pip install pyspark jupyter pandas numpy matplotlib duckdb pyarrow
+    pip install pyspark jupyter pandas numpy matplotlib pyarrow py4j
 
 # Expose Jupyter Notebook port
 EXPOSE 8888

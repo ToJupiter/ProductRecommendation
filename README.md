@@ -52,7 +52,6 @@ Bài toán Product Recommendation
     * Google Drive (backup): [Google Drive](https://drive.google.com/drive/folders/1FNEojdlB4bYaEr3I6NwHy17KAHsX_UvV)
 
 ---
-Tuyệt vời! Để ghi nhận đầy đủ đóng góp của mọi người, mình sẽ bổ sung thêm các vai trò và người đóng góp vào bảng:
 
 ## 🌟 Nhóm chúng mình
 

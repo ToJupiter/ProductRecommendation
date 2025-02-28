@@ -52,11 +52,19 @@ Bài toán Product Recommendation
     * Google Drive (backup): [Google Drive](https://drive.google.com/drive/folders/1FNEojdlB4bYaEr3I6NwHy17KAHsX_UvV)
 
 ---
+Tuyệt vời! Để ghi nhận đầy đủ đóng góp của mọi người, mình sẽ bổ sung thêm các vai trò và người đóng góp vào bảng:
+
 ## 🌟 Nhóm chúng mình
 
-| Role                          | Contributor(s)                 |
-| ----------------------------- | ------------------------------ |
-| **💻 Thiết kế mô hình** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs) |
-| **🗄️ Thực hiện**                 | [Phan Hoang Hai](https://github.com/ToJupiter)|
+| Role                          | Contributor(s)                                                                                                                                                                                                     |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |                                                                                                                 |
+| **🗄️ Thiết kế, chạy và tối ưu mô hình**             | [Phan Hoang Hai](https://github.com/ToJupiter)                                                                                                                                                                   |
+| **🧹 Xử lý và làm sạch dữ liệu**  | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Dang Phuong Nam](https://github.com/fdv45fs), [Phan Hoang Hai](https://github.com/ToJupiter)                                                                                                                                                                                            |
+| **🔍 Data Discovery**         | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Dang Phuong Nam](https://github.com/fdv45fs)                                                                                                                                                                                             |
+| **✨ Feature Engineering**    | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Phan Hoang Hai](https://github.com/ToJupiter)                                                                                                                                                                                             |
+| **📊 Data Visualization**       | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Nguyen Thanh Vinh](https://github.com/VinhNguyen203)                                                                                                                                                                                             |
+| **⚙️ Thiết kế hệ thống**       | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs)                                                                                                                                                                                             |
+| **📝 Tổng hợp và báo cáo**    | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Phan Hoang Hai](https://github.com/ToJupiter), [Nguyen Thanh Vinh](https://github.com/VinhNguyen203)                                                                                                                                                                                           |
 
-Xin cảm ơn và rất mong được ghi nhận đóng góp của các bạn 😊
+Cảm ơn và xin được ghi nhận tất cả góp ý từ các bạn!
+

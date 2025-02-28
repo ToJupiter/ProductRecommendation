@@ -65,5 +65,7 @@ Tuyệt vời! Để ghi nhận đầy đủ đóng góp của mọi người, m
 | **📊 Data Visualization**       | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Nguyen Thanh Vinh](https://github.com/VinhNguyen203)                                                                                                                                                                                             |
 | **⚙️ Thiết kế hệ thống**       | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs)                                                                                                                                                                                             |
 | **📝 Tổng hợp và báo cáo**    | [Vu Nguyen Duc Minh](https://github.com/D3etMe4n), [Phan Hoang Hai](https://github.com/ToJupiter), [Nguyen Thanh Vinh](https://github.com/VinhNguyen203)                                                                                    |
+
+
 Cảm ơn và xin được ghi nhận tất cả góp ý từ các bạn!
 

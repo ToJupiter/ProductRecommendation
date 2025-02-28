@@ -50,3 +50,13 @@ Bài toán Product Recommendation
 
     * Submission file: [Submission](https://drive.google.com/file/d/11548jL43zieZPNwflbCjzhOo1Ye4A7Hk/view)
     * Google Drive (backup): [Google Drive](https://drive.google.com/drive/folders/1FNEojdlB4bYaEr3I6NwHy17KAHsX_UvV)
+
+---
+## 🌟 Nhóm chúng mình
+
+| Role                          | Contributor(s)                 |
+| ----------------------------- | ------------------------------ |
+| **💻 Thiết kế mô hình** |   [Phan Hoang Hai](https://github.com/ToJupiter), [Dang Phuong Nam](https://github.com/fdv45fs) |
+| **🗄️ Thực hiện**                 | [Phan Hoang Hai](https://github.com/ToJupiter)|
+
+Xin cảm ơn và rất mong được ghi nhận đóng góp của các bạn 😊

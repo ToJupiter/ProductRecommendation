@@ -1,5 +1,14 @@
 # Team minekraft - DataFlow 2025
-Bài toán Product Recommendation
+
+## Giải thích bài toán và thiết kế hệ thống:
+**Dữ liệu và yêu cầu bài toán:**
+* Các thông tin nằm tại link Kaggle của cuộc thi: [Dữ liệu và yêu cầu bài toán](https://www.kaggle.com/datasets/grizmo/dataflow2025-product-recommendation)
+
+**Thiết kế hệ thống:**
+![ProductRec drawio](https://github.com/user-attachments/assets/66d619e0-2bcf-4922-b136-2bf4d4631964)
+
+* Các thông tin chi tiết được giải thích trong mã nguồn và file Báo cáo (BaoCao.pdf).
+
 
 ## Hướng dẫn cài đặt và chạy project
 
